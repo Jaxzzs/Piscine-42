@@ -1,0 +1,7 @@
+Credentials cache: API:14516
+        Principal: mabordas@42.FR
+
+  Issued                Expires               Principal
+Aug  5 19:45:35 2015  Aug  6 05:45:35 2015  krbtgt/42.FR@42.FR
+Aug  5 19:45:38 2015  Aug  6 05:45:35 2015  nfs/zfs-student-1.42.fr@42.FR
+Aug  5 19:45:39 2015  Aug  6 05:45:35 2015  nfs/zfs-student-2.42.fr@42.FR
